@@ -2,6 +2,10 @@
 
 This is a [living document](https://en.wikipedia.org/wiki/Living_document), subject to any necessary changes throughout the life of the project.
 
+## What's this about?
+
+A tool to streamline the process of contacting recruits and taking in data during conversations based on predetermined scripts.
+
 ## Terminology
 
 **Hub**: The Google Sheet currently being used to track potential recruits' information as well as volunteer assignment. (probably used for other things I don't know about yet as well)
