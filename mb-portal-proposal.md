@@ -47,7 +47,7 @@ The following will need to be done prior to each scheduled shift.
 - When the volunteer clicks on a recruit's name, this will trigger the script flow. They will follow the prompts, clicking the appropriate buttons or inputting data as the script defines.
 - At the end of the script, the volunteer will click a save button to persist the data.
 
-## Post-shift
+### Post-shift
 
 - Data collected during a shift can be downloaded in CSV or JSON format when a shift is complete. Technically you could download during a shift, but you may get incomplete data.
 
